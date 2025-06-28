@@ -1,0 +1,59 @@
+﻿DENEY FÖYÜ
+
+Ders / Ünite / Konu:
+ Fen Bilimleri / Işık ve Ses / Işığın Kırılması
+Sınıf Düzeyi:
+ 7. Sınıf
+Kazanım:
+ F.7.5.3.2. Işığın kırılmasını, ince ve kalın kenarlı mercekler kullanarak deneyle gözlemler.
+
+Deneyin Adı:
+ Merceklerle Işığın Kırılması
+
+Deneyin Amacı:
+ Işığın farklı ortamlarda kırıldığını gözlemlemek; ince ve kalın kenarlı merceklerin ışık ışınlarını nasıl etkilediğini deneyle ortaya koymak.
+
+Kullanılan Araç ve Gereçler:
+ • Beyaz karton (veya A4 kağıt)
+ • Lazer pointer (veya ışık kaynağı)
+ • İnce kenarlı (yakınsak) mercek
+ • Kalın kenarlı (ıraksak) mercek
+ • Kalem
+ • Cetvel
+ • İğne deliği karton (ışını tekleştirmek için)
+ • Karanlık ortam (veya karartılmış sınıf)
+
+Hipotez (Tahmin):
+ İnce kenarlı mercek ışığı bir noktada toplar, kalın kenarlı mercek ise ışığı dağıtır.
+
+Deneyin Yapılışı (Adım Adım):
+A. İnce Kenarlı Mercek Deneyi:
+1. Beyaz kartonu yatay bir zemine yerleştirin.
+2. Lazer pointer'ı iğne deliğinden geçirerek düz bir ışık ışını elde edin.
+3. Bu ışını ince kenarlı merceğin ortasına gönderin.
+4. Işığın mercekten çıktıktan sonra nasıl bir yol izlediğini gözlemleyin.
+5. Işının odaklandığı noktayı işaretleyin ve çizimle gösterin.
+ B. Kalın Kenarlı Mercek Deneyi:
+1. Aynı düzenekle bu kez kalın kenarlı merceği yerleştirin.
+2. Lazer ışığını yine ortadan merceğe gönderin.
+3. Işığın bu kez nasıl kırıldığını ve dağıldığını gözlemleyin.
+4. Işınların birbirinden uzaklaştığını fark edin ve çizin.
+Mercek TürüIşığın DavranışıYorumİnce Kenarlı MercekIşık ışınları birbirine yaklaşır ve odaklanırYakınsak mercek görevi görürKalın Kenarlı MercekIşık ışınları birbirinden uzaklaşırIraksak mercek görevi görür
+Sonuç ve Yorum:
+ • Işık, ortam değiştirdiğinde doğrultusu değişir, bu olaya kırılma denir.
+ • İnce kenarlı mercek ışığı bir noktada toplar (yakınsak).
+ • Kalın kenarlı mercek ışığı dağıtır (ıraksak).
+ • Merceklerin kalınlığı, ışığın yönünü değiştirerek kırılmasına neden olur.
+ • Bu deney, ışığın kırılmasının günlük yaşamdaki gözlükler, mikroskoplar ve büyüteçler gibi araçlardaki etkisini anlamamızı sağlar.
+
+Güvenlik Uyarıları:
+ • Lazer ışığını doğrudan göze tutmayın.
+ • Cam mercekleri dikkatli kullanın, yere düşürmeyin.
+ • Deney karanlık ortamda yapılacağı için dikkatli olun.
+
+Değerlendirme Soruları:
+1. İnce kenarlı mercek ışık ışınlarını nasıl etkiler?
+2. Kalın kenarlı mercek ışık ışınlarını nasıl etkiler?
+3. Bu deney ışığın hangi özelliğini ortaya koymaktadır?
+4. Gözlük camları neden farklı şekillerde tasarlanır?
+

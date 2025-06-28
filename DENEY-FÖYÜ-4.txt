@@ -1,0 +1,59 @@
+DENEY FÖYÜ
+
+Ders / Ünite / Konu:
+ Fen Bilimleri / Basinç / Sivi Basinci
+Sinif Düzeyi:
+ 8. Sinif
+Kazanim:
+ F.8.3.1.2. Sivi basincini etkileyen degiskenleri tahmin eder ve tahminlerini test eder.
+
+Deneyin Adi:
+ Sivi Basinci Derinlige ve Sivinin Cinsine Bagli mi?
+
+Deneyin Amaci:
+ Sivi basincinin derinlige ve sivinin yogunluguna bagli olarak degisip degismedigini gözlemleyerek test etmek.
+
+Kullanilan Araç ve Gereçler:
+ • U borusu
+ • Lastik hortum
+ • Huni
+ • Balon
+ • Su
+ • Etil alkol (veya yogunlugu farkli bir sivi)
+ • Cetvel
+ • Paket lastigi
+ • Kaplar (farkli derinlikte)
+ • Deney föyü ve kalem
+
+Hipotez (Tahmin):
+ • Sivinin derinligi arttikça basinç da artar.
+ • Ayni derinlikte yogunlugu fazla olan sivi, daha fazla basinç uygular.
+
+Deneyin Yapilisi (Adim Adim):
+A. Derinlige Göre Basinç
+1. U borusu düzenek olarak hazirlanir.
+2. Bir kaba 10 cm yüksekliginde su konur.
+3. Huniyi 2 cm, 5 cm ve 8 cm derinlige kadar sirasiyla daldirin.
+4. U borusundaki seviye degisimini gözlemleyin ve ölçün.
+B. Sivinin Cinsine Göre Basinç
+1. Ayni derinlikte olacak sekilde ikinci kaba etil alkol konur.
+2. Huniyi 5 cm kadar daldirin.
+3. U borusundaki yükselmeyi su ile karsilastirin.
+Sivi TürüDaldirma Derinligi (cm)U Borusundaki Yükselme (cm)YorumSu2Su5Su8Etil Alkol5
+Sonuç ve Yorum:
+ • Derinlik arttikça sivi basinci da artar.
+ • Ayni derinlikte, daha yogun sivi daha fazla basinç uygular.
+ • Sivi basinci kabin sekline degil, sivinin cinsine ve derinlige baglidir.
+ • Gazlar da sivilar gibi basinç uygular. Örnegin; açik hava, vücudumuza basinç uygular ama alisik oldugumuz için hissetmeyiz.
+
+Güvenlik Uyarilari:
+ • Sivilari dikkatli kullanin, laboratuvar disinda tüketmeyin.
+ • Etil alkol gibi maddelerin gözle temasi ve agiz yoluyla temasi tehlikelidir.
+ • Deney sirasinda cam malzemeleri dikkatle kullanin.
+
+Degerlendirme Sorulari:
+1. Sivi basinci hangi degiskenlere baglidir?
+2. Etil alkol ve su arasindaki fark, basinca nasil yansidi?
+3. Derinligi sabit tutup sivi türünü degistirmek neden önemlidir?
+4. Açik hava basincina günlük yasamdan bir örnek veriniz.
+

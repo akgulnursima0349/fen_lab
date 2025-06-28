@@ -1,0 +1,59 @@
+﻿DENEY FÖYÜ
+
+Ders / Ünite / Konu:
+ Fen Bilimleri / Kuvvet ve Hareket / Basit Makineler
+Sınıf Düzeyi:
+ 8. Sınıf
+Kazanım:
+ F.8.5.1.1. Basit makinelerin sağladığı avantajları örnekler üzerinden açıklar.
+
+Deneyin Adı:
+ Sabit ve Hareketli Makaralarla Yük Kaldırmak
+
+Deneyin Amacı:
+ Sabit ve hareketli makaraların sağladığı avantajları gözlemlemek ve kıyaslamak. Basit makinelerin işi kolaylaştırıp kolaylaştırmadığını anlamak.
+
+Kullanılan Araç ve Gereçler:
+* 2 adet sabit makara
+* 1 adet hareketli makara
+* Dayanıklı ip
+* Ağırlık (örneğin küçük su şişesi veya kum torbası)
+* Yaylı el kantarı (dinamometre)
+* Askı düzeneği veya sehpa
+* Kanca veya bağlama aparatı
+* Deney föyü kağıdı ve kalem
+
+Hipotez (Tahmin):
+ Hareketli makarayla yükü kaldırmak, sabit makaraya göre daha az kuvvet gerektirir.
+Deneyin Yapılışı (Adım Adım):
+ A. Sabit Makara ile Deney:
+1. Sabit makarayı yüksek bir yere (askı düzeneğine) sabitleyin.
+2. Makaranın ipine ağırlığı bağlayın.
+3. Yaylı el kantarını ipin serbest ucuna bağlayarak yavaşça yukarı çekin.
+4. Ağırlık tam yerden kalkarken kantardaki kuvvet değerini gözlemleyin ve not edin.
+ B. Hareketli Makara ile Deney:
+1. Hareketli makaraya aynı ağırlığı bağlayın.
+2. Makaranın sabit ucunu askı düzeneğine bağlayın, serbest ucu yaylı kantara takın.
+3. Yine yükü kaldırın ve kantardaki kuvveti gözlemleyin.
+4. Değerleri karşılaştırın.
+
+Kullanılan Makara TipiGözlemlenen Kuvvet (N)Yük Kaldırıldı mı?YorumuSabit MakaraHareketli MakaraSonuç ve Yorum:
+* Hangi makara tipi daha az kuvvet gerektirdi?
+* Sabit makara yön değiştirir ama kuvvetten kazanç sağlar mı?
+* Hareketli makara kuvvetten kazanç sağlar mı?
+* İş (enerji) açısından iki durumda da kazanç var mı?
+Not: Her iki düzende de yük aynı yüksekliğe kaldırıldığı için iş aynıdır. Ancak hareketli makara kuvveti azaltır; bu da kuvvetten kazanç olduğunu gösterir.
+
+
+Güvenlik Uyarıları:
+* Ağırlıkları baş hizasından uzak tutun.
+* Makaraların sağlam şekilde bağlı olduğundan emin olun.
+* Yaylı kantarı aşırı zorlamayın.
+
+Değerlendirme Soruları:
+1. Hangi makara tipinde daha az kuvvet uyguladınız?
+2. Sabit ve hareketli makaraların günlük yaşamdaki kullanım alanlarına örnek veriniz.
+3. Basit makineler iş miktarını mı azaltır, işi kolaylaştırır mı? Açıklayınız.
+4. Basit makinelerde "işten kazanç yoktur" ne demektir?
+
+
